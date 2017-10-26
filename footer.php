@@ -21,13 +21,13 @@
 
   <div class="right">
     <ul>
-      <li><a href="https://www.centralmidori.com/contact">Contact</a></li>
-      <li><a href="https://www.centralmidori.com/careers">Careers</a></li>
-      <li><a href="https://blog.centralmidori.com/">Blog</a></li>
-      <li><a href="https://www.centralmidori.com/data-sheets">Product Data Sheets</a></li>
-      <li><a href="https://www.centralmidori.com/conflict-minerals-policy">Conflict Minerals Policy</a></li>
-      <li><a href="https://www.centralmidori.com/iso9001">ISO 9001</a></li>
-      <li><a href="https://www.centralmidori.com/terms">Terms & Conditions</a></li>
+      <li><a href="http://www.centralmidori.com/contact">Contact</a></li>
+      <li><a href="http://www.centralmidori.com/careers">Careers</a></li>
+      <li><a href="http://blog.centralmidori.com/">Blog</a></li>
+      <li><a href="http://www.centralmidori.com/data-sheets">Product Data Sheets</a></li>
+      <li><a href="http://www.centralmidori.com/conflict-minerals-policy">Conflict Minerals Policy</a></li>
+      <li><a href="http://www.centralmidori.com/iso9001">ISO 9001</a></li>
+      <li><a href="http://www.centralmidori.com/terms">Terms & Conditions</a></li>
     </ul>
   </div>
   <div class="left">

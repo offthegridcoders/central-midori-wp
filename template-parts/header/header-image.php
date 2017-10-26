@@ -15,25 +15,25 @@
     <img class="logo" src="<?php echo get_template_directory_uri() ?>/assets/images/logo.png"/>
   </a>
   <ul class="main-list">
-    <li><a href="https://www.centralmidori.com" id="homeLink">Home</a></li>
-    <li><a href="https://www.centralmidori.com/products" id="productLink">Products</a></li>
-    <li><a href="https://www.centralmidori.com/services" id="servicesLink">Services</a></li>
-    <li><a href="https://www.centralmidori.com/manufacturing" id="manufacturingLink">Manufacturing</a></li>
-    <li><a href="https://www.centralmidori.com/company" id="companyLink">Company</a></li>
+    <li><a href="http://www.centralmidori.com" id="homeLink">Home</a></li>
+    <li><a href="http://www.centralmidori.com/products" id="productLink">Products</a></li>
+    <li><a href="http://www.centralmidori.com/services" id="servicesLink">Services</a></li>
+    <li><a href="http://www.centralmidori.com/manufacturing" id="manufacturingLink">Manufacturing</a></li>
+    <li><a href="http://www.centralmidori.com/company" id="companyLink">Company</a></li>
   </ul>
   <div class="phone">
     <i class="fa fa-phone" aria-hidden="true"></i>
-    <a href="https://www.centralmidori.com//contact">Contact</a>
+    <a href="http://www.centralmidori.com//contact">Contact</a>
   </div>
   <img class="bars" onClick="toggleMobileNav()" src="<?php echo get_template_directory_uri() ?>/assets/images/bars.png"/>
   <div class="slide-menu hidden" id="slideMenu">
 
   <ul class="main-list">
-    <li><a href="https://www.centralmidori.com" id="homeLink">Home</a></li>
-    <li><a href="https://www.centralmidori.com/products" id="productLink">Products</a></li>
-    <li><a href="https://www.centralmidori.com/services" id="servicesLink">Services</a></li>
-    <li><a href="https://www.centralmidori.com/manufacturing" id="manufacturingLink">Manufacturing</a></li>
-    <li><a href="https://www.centralmidori.com/company" id="companyLink">Company</a></li>
+    <li><a href="http://www.centralmidori.com" id="homeLink">Home</a></li>
+    <li><a href="http://www.centralmidori.com/products" id="productLink">Products</a></li>
+    <li><a href="http://www.centralmidori.com/services" id="servicesLink">Services</a></li>
+    <li><a href="http://www.centralmidori.com/manufacturing" id="manufacturingLink">Manufacturing</a></li>
+    <li><a href="http://www.centralmidori.com/company" id="companyLink">Company</a></li>
   </ul>
     <div class="underlay" onClick="toggleMobileNav()"></div>
   </div>
