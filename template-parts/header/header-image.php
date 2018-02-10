@@ -25,7 +25,7 @@
   </ul>
   <div class="phone">
     <i class="fa fa-phone" aria-hidden="true"></i>
-    <a href="http://www.centralmidori.com//contact">Contact</a>
+    <a href="http://www.centralmidori.com/contact">Contact</a>
   </div>
   <img class="bars" onClick="toggleMobileNav()" src="<?php echo get_template_directory_uri() ?>/assets/images/bars.png"/>
   <div class="slide-menu hidden" id="slideMenu">
